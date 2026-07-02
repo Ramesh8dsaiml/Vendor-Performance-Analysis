@@ -491,15 +491,6 @@ The complete ingestion process successfully loaded more than **15.6 million reco
 
 ---
 
-### 📷 ETL Pipeline Screenshot
-
-
-<p align="center">
-
-</p>
-
----
-
 # 📝 SQL Analysis
 
 SQL was used extensively for querying, aggregation, and business analysis.
@@ -580,6 +571,12 @@ The final phase of the project focused on transforming the analytical dataset (`
 The dashboard was designed to enable business stakeholders to monitor vendor performance, evaluate brand profitability, analyze inventory efficiency, and support data-driven decision making through dynamic visualizations and advanced DAX calculations.
 
 ---
+## 🌐 Live Dashboard
+
+Explore the interactive Power BI dashboard here:
+
+https://app.powerbi.com/groups/me/reports/88a8f033-e378-416a-ae20-21bd4fe5e960/7ab7d978dfa487f745d2?ctid=ad65900e-6f0f-4391-ac11-c968650c084c&experience=power-bi
+> **Note:** For the best experience, open the dashboard on a desktop browser.
 
 ## Dashboard Overview
 
