@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+myenv/
+.vscode/settings.json
+
+# Ignore raw datasets
+data/*.csv
+
+# Keep processed analytical dataset
+!data/Processed_data/
+!data/Processed_data/vendor_sales_summary.csv

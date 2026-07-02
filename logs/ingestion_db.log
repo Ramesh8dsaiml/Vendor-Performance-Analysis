@@ -1,0 +1,13 @@
+2026-06-25 10:09:27,468 - INFO - Started processing begin_inventory.csv
+2026-06-25 10:10:22,080 - INFO - begin_inventory loaded successfully (206,529 rows)
+2026-06-25 10:10:22,084 - INFO - Started processing end_inventory.csv
+2026-06-25 10:11:13,517 - INFO - end_inventory loaded successfully (224,489 rows)
+2026-06-25 10:11:13,521 - INFO - Started processing purchases.csv
+2026-06-25 10:23:13,297 - INFO - purchases loaded successfully (2,372,474 rows)
+2026-06-25 10:23:13,304 - INFO - Started processing purchase_prices.csv
+2026-06-25 10:23:15,467 - INFO - purchase_prices loaded successfully (12,261 rows)
+2026-06-25 10:23:15,469 - INFO - Started processing sales.csv
+2026-06-25 11:23:42,192 - INFO - sales loaded successfully (12,825,363 rows)
+2026-06-25 11:23:42,196 - INFO - Started processing vendor_invoice.csv
+2026-06-25 11:23:43,312 - INFO - vendor_invoice loaded successfully (5,543 rows)
+2026-06-25 11:23:43,316 - INFO - Ingestion completed in 74.26 minutes

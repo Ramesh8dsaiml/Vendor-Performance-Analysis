@@ -1,0 +1,12 @@
+pandas
+numpy
+scipy
+statsmodels
+matplotlib
+seaborn
+sqlalchemy
+pymysql
+mysql-connector-python
+openpyxl
+jupyter
+ipykernel

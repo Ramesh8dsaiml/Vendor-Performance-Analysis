@@ -1,0 +1,20 @@
+2026-06-27 11:42:44,662 - INFO - Creating Vendor Summary Table.....
+2026-06-27 11:45:50,789 - INFO -    VendorNumber                   VendorName  Brand              Description  ...  TotalSalesDollars  TotalSalesPrice TotalExciseTax  FreightCost
+0          1128  BROWN-FORMAN CORP             1233  Jack Daniels No 7 Black  ...       5.101920e+06        672819.31      260999.20     68601.68
+1          4425        MARTIGNETTI COMPANIES   3405    Tito's Handmade Vodka  ...       4.819073e+06        561512.37      294438.66    144929.24
+2         17035  PERNOD RICARD USA             8068         Absolut 80 Proof  ...       4.538121e+06        461140.15      343854.07    123780.22
+3          3960  DIAGEO NORTH AMERICA INC      4261   Capt Morgan Spiced Rum  ...       4.475973e+06        420050.01      368242.80    257032.07
+4          3960  DIAGEO NORTH AMERICA INC      3545          Ketel One Vodka  ...       4.223108e+06        545778.28      249587.83    257032.07
+
+[5 rows x 14 columns]
+2026-06-27 11:45:50,828 - INFO - Cleaning Data.....
+2026-06-27 11:45:50,856 - INFO -    VendorNumber                VendorName  Brand              Description  ...  GrossProfit  StockTurnover  SalesToPurchaseRatio  ProfitMargin
+0          1128         BROWN-FORMAN CORP   1233  Jack Daniels No 7 Black  ...   1290667.91       0.979108              1.338647     25.297693
+1          4425     MARTIGNETTI COMPANIES   3405    Tito's Handmade Vodka  ...   1015032.27       0.976890              1.266830     21.062810
+2         17035         PERNOD RICARD USA   8068         Absolut 80 Proof  ...   1119816.92       0.998575              1.327594     24.675786
+3          3960  DIAGEO NORTH AMERICA INC   4261   Capt Morgan Spiced Rum  ...   1214774.94       0.993703              1.372493     27.139908
+4          3960  DIAGEO NORTH AMERICA INC   3545          Ketel One Vodka  ...   1199901.61       0.983556              1.396897     28.412764
+
+[5 rows x 18 columns]
+2026-06-27 11:45:50,887 - INFO - Ingesting data.....
+2026-06-27 11:45:52,716 - INFO - Completed
