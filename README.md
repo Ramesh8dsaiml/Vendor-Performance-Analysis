@@ -369,7 +369,6 @@ The analysis was designed to answer key business questions that directly impact 
 ### 📷 Business Analysis Dashboard
 
 <img width="860" height="547" alt="image" src="https://github.com/user-attachments/assets/49a71a60-65c5-4162-a740-a81ac641acb0" />
-<img width="860" height="547" alt="image" src="https://github.com/user-attachments/assets/e4605caf-6db1-4629-abfb-8d78913b442d" />
 
 <p align="center">
 
