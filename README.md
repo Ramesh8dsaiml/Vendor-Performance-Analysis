@@ -2,22 +2,10 @@
 
 <p align="center">
 <img width="1693" height="929" alt="image" src="https://github.com/user-attachments/assets/e9b0649d-983f-4875-98ac-571fd590e072" />
-
 </p>
-
 ### End-to-End Data Analytics Project using Python, MySQL, SQL & Power BI
 
 > Transforming raw sales, purchases, inventory, and vendor data into meaningful business insights through data engineering, statistical analysis, and interactive Power BI dashboards.
-
----
-
-
-# 📊 Vendor Performance Analysis
-
-### End-to-End Data Analytics Project using Python, MySQL, SQL & Power BI
-
-> Transforming raw sales, purchases, inventory, and vendor data into meaningful business insights through data engineering, statistical analysis, and interactive Power BI dashboards.
-
 ---
 
 ## 📖 Project Overview
