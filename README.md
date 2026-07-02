@@ -466,7 +466,7 @@ The relational design enabled efficient SQL queries, data aggregation, and busin
 ---
 
 ### 📷 Database Schema
-<img width="1737" height="862" alt="image" src="https://github.com/user-attachments/assets/aec2cb2b-d8d2-4a59-8c2b-d672ef950f19" />
+<img width="1920" height="1139" alt="image" src="https://github.com/user-attachments/assets/6c39de1d-3e65-465e-9f8c-c5462cb5d057" />
 
 <p align="center">
 
@@ -594,7 +594,8 @@ The Power BI solution consists of **three interactive dashboard pages**, each de
 ---
 
 # 📈 Executive Dashboard
-<img width="1920" height="1139" alt="image" src="https://github.com/user-attachments/assets/6c39de1d-3e65-465e-9f8c-c5462cb5d057" />
+<img width="1737" height="862" alt="image" src="https://github.com/user-attachments/assets/aec2cb2b-d8d2-4a59-8c2b-d672ef950f19" />
+
 <img width="1719" height="870" alt="{0BE94D10-09F7-47A7-9A7F-1C2CB3410540}" src="https://github.com/user-attachments/assets/73583ba1-6fec-45c1-a5a1-9ba8b1ca8319" />
   <img width="1730" height="870" alt="{9B2BAE36-C372-4F08-A50B-3FB82DDC46D5}" src="https://github.com/user-attachments/assets/6909a394-315c-42a5-91b2-63a2dc279d47" />
   
