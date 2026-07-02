@@ -228,8 +228,9 @@ These engineered metrics significantly improved the analytical depth of both SQL
 ---
 
 ### 📷 Feature Engineering Visualization
+<img width="1488" height="990" alt="image" src="https://github.com/user-attachments/assets/6e2207ab-987b-4e8e-a76b-aa370fe0b309" />
 
-![alt text](image.png)
+
 <p align="center">
 
 </p>
@@ -271,8 +272,7 @@ Summary statistics revealed valuable information about business performance and 
 
 ### 📷 Summary Statistics Visualization
 
-![alt text](image-2.png)
-![alt text](image-1.png)
+<img width="1489" height="989" alt="image" src="https://github.com/user-attachments/assets/c2de280c-7e08-4dd0-a37e-7ba4323ff916" />
 
 <p align="center">
 
@@ -296,8 +296,8 @@ These findings indicate that inventory movement and purchasing behavior influenc
 ---
 
 ### 📷 Correlation Heatmap
+<img width="1489" height="989" alt="image" src="https://github.com/user-attachments/assets/8f79a3c0-5aff-436d-b8d7-608df5a0db33" />
 
-![alt text](image-3.png)
 <p align="center">
 
 </p>
@@ -321,10 +321,11 @@ Statistical techniques were applied to validate business assumptions and support
 ---
 
 ### 📷 Statistical Analysis Visualization
+<img width="1491" height="490" alt="image" src="https://github.com/user-attachments/assets/babe3d0a-98f5-4a26-b0f9-c885adb31e44" />
+<img width="851" height="546" alt="image" src="https://github.com/user-attachments/assets/0f46db39-633e-46b2-bb81-b81ad60f1300" />
+<img width="1052" height="825" alt="image" src="https://github.com/user-attachments/assets/d168d220-6113-41c2-95b3-dfaaa7668169" />
 
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
+
 <p align="center">
 
 </p>
@@ -367,9 +368,9 @@ The analysis was designed to answer key business questions that directly impact 
 
 ### 📷 Business Analysis Dashboard
 
-![alt text](image-7.png)
+<img width="860" height="547" alt="image" src="https://github.com/user-attachments/assets/49a71a60-65c5-4162-a740-a81ac641acb0" />
+<img width="860" height="547" alt="image" src="https://github.com/user-attachments/assets/e4605caf-6db1-4629-abfb-8d78913b442d" />
 
-![alt text](image-8.png)
 <p align="center">
 
 </p>
@@ -412,9 +413,9 @@ The project processes over **15.6 million raw business records** collected from 
 ---
 
 ### 📷 Raw Data Processing Summary
+<img width="1912" height="1132" alt="image" src="https://github.com/user-attachments/assets/5ecdb80c-02ec-417c-bd7e-f6fc491a3773" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/27142d73-2b01-4173-b4d6-d2a0d4730033" />
 
-![alt text]({DCA96BDE-9A15-468D-A3C5-871B2702CC7A}.png)
-![alt text]({F0E6005B-56BF-4CAA-9ABB-2F8DAABCC7CC}.png)
 <p align="center">
 
 </p>
@@ -438,7 +439,6 @@ A secure connection between Python and MySQL was established using **SQLAlchemy*
 
 ### 📷 Database Connection Screenshot
 
-<!-- Insert Database Connection Screenshot Here -->
 
 <p align="center">
 
@@ -466,8 +466,8 @@ The relational design enabled efficient SQL queries, data aggregation, and busin
 ---
 
 ### 📷 Database Schema
+<img width="1737" height="862" alt="image" src="https://github.com/user-attachments/assets/aec2cb2b-d8d2-4a59-8c2b-d672ef950f19" />
 
-![alt text]({1FDCC992-B095-4D9C-A86C-32044F296FC5}.png)
 <p align="center">
 
 </p>
@@ -594,8 +594,14 @@ The Power BI solution consists of **three interactive dashboard pages**, each de
 ---
 
 # 📈 Executive Dashboard
+<img width="1920" height="1139" alt="image" src="https://github.com/user-attachments/assets/6c39de1d-3e65-465e-9f8c-c5462cb5d057" />
+<img width="1719" height="870" alt="{0BE94D10-09F7-47A7-9A7F-1C2CB3410540}" src="https://github.com/user-attachments/assets/73583ba1-6fec-45c1-a5a1-9ba8b1ca8319" />
+  <img width="1730" height="870" alt="{9B2BAE36-C372-4F08-A50B-3FB82DDC46D5}" src="https://github.com/user-attachments/assets/6909a394-315c-42a5-91b2-63a2dc279d47" />
+  
 
-![alt text](image-9.png)
+/>
+
+
 <br>
 
 ### Business Objectives
@@ -627,7 +633,12 @@ The Executive Dashboard provides a high-level overview of organizational perform
 
 # 🤝 Vendor Performance Dashboard
 
-![alt text](Dashboard_visuals/Images/vendor.png)
+<img width="1737" height="865" alt="image" src="https://github.com/user-attachments/assets/0ae613a7-1373-4138-a917-d1c5a875a92d" />
+<img width="1708" height="867" alt="{07EC0D9A-BE65-4658-923B-CA24BFBE9C10}" src="https://github.com/user-attachments/assets/2b17d3d3-df35-4d11-9681-ec1865115240"
+/>
+<img width="1718" height="853" alt="{CBD5307A-C574-453B-BA38-72E08EE50993}" src="https://github.com/user-attachments/assets/178118db-cba8-476a-9cba-d89bca677b69" />
+
+
 
 <br>
 
@@ -659,8 +670,14 @@ The Vendor Dashboard enables detailed evaluation of supplier performance by comp
 ---
 
 # 📦 Brand & Inventory Dashboard
+<img width="1739" height="864" alt="image" src="https://github.com/user-attachments/assets/d143923c-fa8a-42f7-b04d-eb33851e9782" />
+<img width="1724" height="866" alt="{6E422077-2539-4F69-ABB8-09D291A60BF6}" src="https://github.com/user-attachments/assets/0629206c-7f4f-4341-85d0-3c4e18513dbd"
+ />
+<img width="1718" height="866" alt="{340962FD-500D-41DC-BE3A-509B101F834F}" src="https://github.com/user-attachments/assets/e9d9cec7-5fb4-4fac-99d9-d131f7f5c5eb" />
+ <img width="1731" height="860" alt="{768AEE0A-317E-47BF-AF6D-D4F3AEF05FDA}" src="https://github.com/user-attachments/assets/79c37042-3f55-447c-8f6b-50f238e23be4" />
 
-![alt text](Dashboard_visuals/Images/brand.png)
+ 
+
 <br>
 
 ### Business Objectives
@@ -907,7 +924,19 @@ Vendor-Performance-Analysis/
 ├── requirements.txt
 └── .gitignore
 ```
+## 📥 Dataset
 
+The original raw datasets are not included in this repository because they exceed GitHub's file size limit (100 MB per file).
+
+The repository includes the processed analytical dataset (`vendor_sales_summary.csv`) used for SQL analysis and Power BI dashboard development.
+
+### Raw Dataset Download
+
+The complete raw datasets can be downloaded from Google Drive:
+
+https://drive.google.com/drive/folders/13D-SBaSY6G0kT_YLQDoYFEOXeWpEWuTR?usp=sharing
+
+> **Note:** The raw datasets are excluded from this repository due to GitHub's 100 MB file size limitation.
 ---
 
 # ⚙️ Installation & Setup
