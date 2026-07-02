@@ -65,9 +65,19 @@ This project answers several real-world business questions, including:
 ---
 ---
 
-# 🏗️ Project Architecture
+# Project Workflow:
 
 This project follows a complete end-to-end data analytics workflow, transforming raw business data into meaningful business insights through data engineering, statistical analysis, SQL processing, and interactive Power BI dashboards.
+
+## 🖼️ Project Workflow
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a1c474a2-bfda-44f8-aad8-3e5675c69337" />
+
+
+<p align="center">
+
+
+</p>
+
 
 ```text
                     Raw Excel / CSV Files
@@ -387,9 +397,22 @@ H₁ (Alternative Hypothesis): The mean profit margins of top-performing and low
 
 ---
 
-# 🗄️ MySQL Database & ETL Pipeline
+# 🗄️ MySQL Database
 
 After completing data cleaning, feature engineering, and exploratory data analysis (EDA) in Python, the transformed datasets were integrated into a MySQL database. This centralized database served as the foundation for SQL-based analysis and the creation of the final analytical dataset used for business intelligence reporting.
+
+---
+
+# 🔄 ETL Pipeline
+
+<p align="center">
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/56edb91a-0581-4365-8504-9429ac17ea6b" />
+
+
+</p>
+
+The ETL pipeline extracts raw CSV datasets, performs data cleaning, feature engineering, validation, loads the transformed data into MySQL, executes SQL aggregation, and prepares the analytical dataset for Power BI dashboards.
 
 ---
 
